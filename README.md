@@ -29,4 +29,6 @@ Quotes
 
 Videos
 
-[![Watch the video]([https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg](https://salvemusic.com.ua/wp-content/uploads/2020/11/eazy-e-768x508.jpg))]([https://youtu.be/nTQUwghvy5Q](https://www.youtube.com/watch?v=F4SUJnsA9zY))
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q" target="_blank">
+ <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
