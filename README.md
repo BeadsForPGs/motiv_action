@@ -29,6 +29,15 @@ Quotes
 
 Videos
 
+Eazy-e - riot remix
+
 <a href="https://www.youtube.com/watch?v=F4SUJnsA9zY" target="_blank">
  <img src="https://salvemusic.com.ua/wp-content/uploads/2020/11/eazy-e-768x508.jpg" alt="Watch the video" width="768" height="508" border="10" />
 </a>
+
+Biggie - Juicy
+
+<a href="https://www.youtube.com/watch?v=_JZom_gVfuw" target="_blank">
+ <img src="https://extrachill.com/wp-content/uploads/2020/12/biggie-smalls-age-17-freestyle-video.jpg" alt="Watch the video" width="768" height="508" border="10" />
+</a>
+
