@@ -18,11 +18,12 @@ The boy grew up withdrawn, loved reading and, having a photographic memory and h
 
 Quotes
 <ul>
-  <li>Praise the education development and satisfaction, if it self-</li>
+  <li>Praise the education development and satisfaction, if it self - Authoer author = new Author("BDfPGs", "aka Delete")</li>
   <li>Big despair creates great power - Stefan Zweig</li>
-  <li>Помолчим о старом: моя мечта, ты другою стала</li>
-  <li>Жив здоров а дальше удивим</li>
+  <li>Помолчим о старом: моя мечта, ты другою стала - Obladaet</li>
+  <li>Жив здоров а дальше удивим - Goose</li>
   <li>Одно меня угнетало – это отсутствие у меня надлежащего образования и конкретно-положительной подготовки в области социально-политических проблем анархизма.</li>
+  <li>maybe I built for something different ... for something special - Typo in Woz</li>
 </ul>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
