@@ -27,6 +27,7 @@ Quotes
   <li>That's all it was Kanye, we still love Kanye
   And I love you like Kanye loves Kanye - Ye</li>
   <li>Натыкаюсь на бывших везде. Вижу их счастье и грустные ноты Но есть один общий момент: У них всех до запястья обкусаны локти - Riki tiki tavi</li>
+  <li>Dieser kasachische Mann besteht nicht aus Zucker - Deutcher volk </li>
 </ul>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -45,4 +46,4 @@ Biggie - Juicy
  <img src="https://extrachill.com/wp-content/uploads/2020/12/biggie-smalls-age-17-freestyle-video.jpg" alt="Watch the video" width="768" height="508" border="10" />
 </a>
 
-Music will be uploaded later, most likely to be as Spotigy playlist
+Music will be uploaded later, most likely to be as Spotiаy playlist
