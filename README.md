@@ -41,6 +41,7 @@ Quotes
   <li>Wer nicht vorwärts geht, der kommt zurücke. Non progredi est regredi</li>
   <li>I ain't wastin' time that I'm never gettin' back
 Takin' less L's, makin' more M's</li>
+  <li>Для моих экс я не экс бойфренд. Для моих экс я ушедший поезд. Чух-чух.</li>
 </ul>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
